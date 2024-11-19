@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+/* Style for the paragraph with id 'yellow' */
+#yellow {
+    background-color: yellow;
+    border-width: 1px;
+    border-color: green;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Style for the paragraph with id 'red' */
+#red {
+    background-color: red;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Style for the paragraph with id 'green' */
+#green {
+    background-color: green;
+    border-width: 1px;
+    border-color: yellow;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px 0;
+}
